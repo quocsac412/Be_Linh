@@ -1,15 +1,15 @@
 const CONFIG = {
     introTitle: 'Mọi Ngưới ơi',
     introDesc: `trái đất vốn lạ thường
-    Mà sao t nhớ tui bây Vl ước gì 
+    Mà sao t nhớ tui bây vl ước gì 
     lên mọi người bao mình ăn nha',
     btnIntro: 'ok',
     title: 'có phải mọi người đồng ý rồi đúng hem 😋',
     desc: 'Đồng ý rồi là hông có được thất hứa đâu đó nha hihi^^',
     btnYes: 'ok nha ❤',
     btnNo: 'cc😡',
-    question:'Quyết Đính Vậy Đi Nha hehe ',
-    btnReply: 'Gửi Bạn Sắc iu dấu ^^',
+    question:'Quyết đinh vậy đi nha hehe^^ ',
+    btnReply: 'Gửi bạn Sắc iu dấu ^^',
     reply: 'okiiila nah <3',
     mess: ' Mọi khỏi Trả Lời Tụi Biết  Mn đồng ý mà',
     messDesc: 'Nhớ nha không được nút lời đó',
