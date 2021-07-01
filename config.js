@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'ĐCM, M nằm mơ hả con trai 😡',
     question:'Quyết Đính Vậy Đi Nha không Có Được Thay đổi gì Đó Biết Chưa',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Dạ',
+    reply: 'Em khỏi TL Anh biết em đồng ý mà',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối Nay Call nha bé Hqua giờ không call rồi :((.',
     btnAccept: 'okiiiii lun <3',
