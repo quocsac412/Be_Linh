@@ -11,7 +11,7 @@ const CONFIG = {
     question:'Quyết Đính Vậy Đi Nha hehe ',
     btnReply: 'Gửi Bạn Sắc iu dấu ^^',
     reply: 'okiiila nah <3',
-    mess: ' Mọi khỏi Trả Lời Tụi Biết Mn đồng ý mà',
+    mess: ' Mọi khỏi Trả Lời Tụi Biết  Mn đồng ý mà',
     messDesc: 'Nhớ nha không được nút lời đó',
     btnAccept: 'okiiiii bạn ơi <3
     messLink: 'http://QuocSac//link mess của các bạn. VD: https://m.me/nam.nodemy
