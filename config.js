@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'Nếu bé đồng ý rồi lầ bé hông được đánh anh nữa đâu đó nha😢. Nhớ mỗi ngày anh về nhà là phải xoa bop cho anh đó hihi^^  ',
     btnYes: 'Em đông ý miễn bé hồng thik là được❤️',
     btnNo: 'ĐCM, M nằm mơ hả con trai 😡',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Quyết Đính Vậy Đi Nha không Có Được Thay đổi gì Đó Biết Chưa',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
