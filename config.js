@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Mọi Ngưới ơi',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `trái đất vốn lạ thường
     Mà sao t nhớ tui bây Vl ước gì 
     lên mọi người bao mình ăn nha',
     btnIntro: 'ok',
