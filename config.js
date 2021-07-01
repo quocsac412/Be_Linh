@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Mọi Ngưới ơi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao t nhớ tui bây Vl ước gì 
-    lên mọi người bao mình ăn nha
+    lên mọi người bao mình ăn nha',
     btnIntro: 'ok',
     title: 'có phải mọi người đồng ý rồi đúng hem 😋',
     desc: 'Đồng ý rồi là hông có được thất hứa đâu đó nha hihi^^',
