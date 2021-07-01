@@ -1,20 +1,20 @@
 const CONFIG = {
-    introTitle: 'BÉ Ơi',
+    introTitle: 'Pe oiii',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim BÉ HỒNG lẻ loi
+    Lạc vào tim Anh lẻ loi
     Đằng sau chữ yêu đây là thương
-    Nếu Bé thương anh thì bé cho anh làm nóc nhà nhá 🥰 `,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã đồng ý rồi chăng 😙',
-    desc: 'Nếu bé đồng ý rồi lầ bé hông được đánh anh nữa đâu đó nha😢. Nhớ mỗi ngày anh về nhà là phải xoa bop cho anh đó hihi^^  ',
-    btnYes: 'Em đông ý miễn bé hồng thik là được❤️',
-    btnNo: 'ĐCM, M nằm mơ hả con trai 😡',
-    question:'Quyết Đính Vậy Đi Nha không Có Được Thay đổi gì Đó Biết Chưa',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'HiHi🥰',
+     Tụi mình quay LẠI NHAA`,
+    btnIntro: 'ok',
+    title: 'Phải chăng Pe đã đồng ý rồi chăng 😙',
+    desc: 'Nếu bé đồng ý rồi lầ Pé thì mình Quay Lại Nha hihi^^  ',
+    btnYes: 'Em đông ý❤️',
+    btnNo: 'ĐÉO😡',
+    question:'Quyết Đính Vậy Đi Nha hehe ',
+    btnReply: 'Gửi cho Pe <3',
+    reply: 'Daaaaaaaaaaaaa�',
     mess: 'Em khỏi TL Anh biết em đồng ý mà^^',
     messDesc: 'Tối Nay Call nha bé Hqua giờ không call rồi :((.',
     btnAccept: 'okiiiii lun <3',
-    messLink: 'http://QuocSac_0412' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://Duongcuaem' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
