@@ -13,8 +13,8 @@ const CONFIG = {
     question:'Quyết Đính Vậy Đi Nha hehe ',
     btnReply: 'Gửi cho Pe <3',
     reply: 'Daaaaaaaaaaaaa�',
-    mess: 'Em khỏi TL Anh biết em đồng ý mà^^',
-    messDesc: 'Tối Nay Call nha bé Hqua giờ không call rồi :((.',
+    mess: 'Em khỏi Trả Lời Anh biết em đồng ý mà^^',
+    messDesc: 'Tối Nay nhớ nói iu Dưn.',
     btnAccept: 'okiiiii lun <3',
     messLink: 'http://Duongcuaem' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
