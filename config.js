@@ -12,8 +12,8 @@ const CONFIG = {
     btnNo: 'ĐCM, M nằm mơ hả con trai 😡',
     question:'Quyết Đính Vậy Đi Nha không Có Được Thay đổi gì Đó Biết Chưa',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Em khỏi TL Anh biết em đồng ý mà',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    reply: 'HiHi🥰',
+    mess: 'Em khỏi TL Anh biết em đồng ý mà',
     messDesc: 'Tối Nay Call nha bé Hqua giờ không call rồi :((.',
     btnAccept: 'okiiiii lun <3',
     messLink: 'http://QuocSac_0412' //link mess của các bạn. VD: https://m.me/nam.nodemy
