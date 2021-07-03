@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Mn ơi!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao mn cứ đi nhầm đường
-    rồi ai nấy cũng quên mình hết rồi 
+    hicc rồi ai nấy cũng quên mình hết rồi😔
     Ai nhớ mình cho mình xin một cánh tay đi nào 🤧`,
     btnIntro: 'okk sắc iu',
     title: 'À Mn cho mình xin 50k ăn kẹo được hông 😙',
